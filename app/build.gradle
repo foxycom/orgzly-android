@@ -13,7 +13,7 @@ android {
     compileSdkVersion 28
 
     defaultConfig {
-        minSdkVersion 16 // Jelly Bean (4.1)
+        minSdkVersion 23 // Jelly Bean (4.1)
         targetSdkVersion 28 // Android Pie (9)
         applicationId "com.orgzly"
         versionCode 155
